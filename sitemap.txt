@@ -1,7 +1,8 @@
-http://example.com/2022/11/17/~%E5%AE%9D%E8%B4%9D%E7%9A%84%E7%94%9F%E6%97%A5~/
-http://example.com/2022/11/17/%E5%A7%90%E5%A7%90%E5%92%8C%E6%88%91%E8%BF%87%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%94%9F%E6%97%A5~/
+http://example.com/2022/11/17/%E5%A7%90%E5%A7%90%E5%92%8C%E6%88%91%E8%BF%87%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%94%9F%E6%97%A5/
+http://example.com/2022/11/17/%E5%AE%9D%E8%B4%9D%E7%9A%84%E7%94%9F%E6%97%A5/
 http://example.com/about/index.html
 http://example.com/movies/index.html
 http://example.com/music/index.html
 http://example.com/2022/11/05/hello-world/
 http://example.com/
+http://example.com/tags/Love/
