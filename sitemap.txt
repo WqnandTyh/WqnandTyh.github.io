@@ -1,13 +1,13 @@
+http://example.com/2022/10/21/%E5%A4%87%E5%BF%98%E5%BD%95/
 http://example.com/Gallery/index.html
-http://example.com/categories/index.html
-http://example.com/tags/index.html
 http://example.com/2022/10/21/%E5%AE%9D%E8%B4%9D%E7%9A%84%E7%94%9F%E6%97%A5/
 http://example.com/2022/10/27/%E5%A7%90%E5%A7%90%E5%92%8C%E6%88%91%E8%BF%87%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%94%9F%E6%97%A5/
 http://example.com/about/index.html
 http://example.com/movies/index.html
 http://example.com/music/index.html
-http://example.com/2022/11/05/hello-world/
 http://example.com/
+http://example.com/tags/tec/
 http://example.com/tags/Love/
 http://example.com/tags/%E7%A7%8D%E6%A4%8D%E8%80%85/
+http://example.com/categories/%E6%8A%80%E6%9C%AF/
 http://example.com/categories/%E7%88%B1%E6%83%85%E6%97%A5%E8%AE%B0/
