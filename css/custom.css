@@ -242,14 +242,14 @@
   
   /* 鼠标图标 */
   body {
-    cursor: url("/img/x1.cur"), auto;
+    cursor: url("https://pic1.zhimg.com/80/v2-a5f6fc9fd916e6b5f4cd0817896ebd0c_1440w.webp"), auto;
   }
   a,
   [type="button"]:not(:disabled),
   [type="reset"]:not(:disabled),
   [type="submit"]:not(:disabled),
   button:not(:disabled) {
-    cursor: url("/img/x2.cur"), auto !important;
+    cursor: url("https://pic3.zhimg.com/80/v2-176e5527a59ab2ec0dcefaa28bb90a4e_1440w.webp"), auto !important;
   }
   /* md网站下划线 */
   #article-container a:hover {
