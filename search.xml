@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>每日任务</title>
+      <link href="/2022/11/22/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
+      <url>/2022/11/22/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/</url>
+      
+        <content type="html"><![CDATA[<div class="tip warning"><p>每天都要做的，千万不能忘记啦！</p></div><div class="timeline pink"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>泡泡玛特每日任务完成！</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>STEP 4 精灵</p></div></div><div class='timeline-item-content'><div class='checkbox blue'><input type="radio" />            <p>访问抽盒机</p>            </div><div class='checkbox blue'><input type="radio" />            <p>访问图鉴</p>            </div><div class='checkbox blue'><input type="radio" />            <p>与守护精灵进行互动</p>            </div><div class='checkbox blue'><input type="radio" />            <p>精灵寻宝</p>            </div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>STEP 3 试手气</p></div></div><div class='timeline-item-content'><div class='checkbox blue'><input type="radio" />            <p>每天可以试手气4次</p>            </div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>STEP 2 摇盒</p></div></div><div class='timeline-item-content'><div class='checkbox blue'><input type="radio" />            <p>在抽盒商品里进行摇盒操作</p>            </div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>STEP 1 签到</p></div></div><div class='timeline-item-content'><div class='checkbox blue'><input type="radio" />            <p>在首页进行签到</p>            </div></div></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 爱情日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Love </tag>
+            
+            <tag> 乖 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>依赖Python构建的淘宝秒拍程序</title>
       <link href="/2022/11/18/%E4%BE%9D%E8%B5%96Python%E6%9E%84%E5%BB%BA%E7%9A%84%E6%B7%98%E5%AE%9D%E7%A7%92%E6%8B%8D%E7%A8%8B%E5%BA%8F/"/>
       <url>/2022/11/18/%E4%BE%9D%E8%B5%96Python%E6%9E%84%E5%BB%BA%E7%9A%84%E6%B7%98%E5%AE%9D%E7%A7%92%E6%8B%8D%E7%A8%8B%E5%BA%8F/</url>

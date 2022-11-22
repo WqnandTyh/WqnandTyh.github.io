@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wqnandtyh.club/2022/11/22/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/</loc>
+    
+    <lastmod>2022-11-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wqnandtyh.club/manifest.json</loc>
     
     <lastmod>2022-11-22</lastmod>
@@ -119,7 +128,7 @@
 
   
   <url>
-    <loc>https://wqnandtyh.club/tags/Python/</loc>
+    <loc>https://wqnandtyh.club/tags/Butterfly%E9%87%8D%E8%A3%85/</loc>
     <lastmod>2022-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -140,7 +149,14 @@
   </url>
   
   <url>
-    <loc>https://wqnandtyh.club/tags/Butterfly%E9%87%8D%E8%A3%85/</loc>
+    <loc>https://wqnandtyh.club/tags/Python/</loc>
+    <lastmod>2022-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wqnandtyh.club/tags/%E4%B9%96/</loc>
     <lastmod>2022-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

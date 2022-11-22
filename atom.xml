@@ -6,7 +6,7 @@
   <link href="https://wqnandtyh.club/atom.xml" rel="self"/>
   
   <link href="https://wqnandtyh.club/"/>
-  <updated>2022-11-19T12:02:55.286Z</updated>
+  <updated>2022-11-22T06:26:26.570Z</updated>
   <id>https://wqnandtyh.club/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日任务</title>
+    <link href="https://wqnandtyh.club/2022/11/22/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/"/>
+    <id>https://wqnandtyh.club/2022/11/22/%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1/</id>
+    <published>2022-11-22T05:39:22.000Z</published>
+    <updated>2022-11-22T06:26:26.570Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tip warning"><p>每天都要做的，千万不能忘记啦！</p></div><div class="timeline pink"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>泡泡玛特每日任务完成！</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>STEP 4 精灵</p></div></div><div class='timeline-item-content'><div class='checkbox blue'><input type="radio" />            <p>访问抽盒机</p>            </div><div class='checkbox blue'><input type="radio" />            <p>访问图鉴</p>            </div><div class='checkbox blue'><input type="radio" />            <p>与守护精灵进行互动</p>            </div><div class='checkbox blue'><input type="radio" />            <p>精灵寻宝</p>            </div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>STEP 3 试手气</p></div></div><div class='timeline-item-content'><div class='checkbox blue'><input type="radio" />            <p>每天可以试手气4次</p>            </div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>STEP 2 摇盒</p></div></div><div class='timeline-item-content'><div class='checkbox blue'><input type="radio" />            <p>在抽盒商品里进行摇盒操作</p>            </div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>STEP 1 签到</p></div></div><div class='timeline-item-content'><div class='checkbox blue'><input type="radio" />            <p>在首页进行签到</p>            </div></div></div></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip warning&quot;&gt;&lt;p&gt;每天都要做的，千万不能忘记啦！&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;timeline pink&quot;&gt;&lt;div class=&#39;timeline-item headline&#39;&gt;&lt;div class=&#39;timeline-i</summary>
+      
+    
+    
+    
+    <category term="爱情日记" scheme="https://wqnandtyh.club/categories/%E7%88%B1%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="Love" scheme="https://wqnandtyh.club/tags/Love/"/>
+    
+    <category term="乖" scheme="https://wqnandtyh.club/tags/%E4%B9%96/"/>
+    
+  </entry>
   
   <entry>
     <title>依赖Python构建的淘宝秒拍程序</title>
